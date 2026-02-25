@@ -3,51 +3,51 @@ import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 const photos = [
   {
-    src: "./panda/WhatsApp .jpeg",
+    src: "./public/WhatsApp .jpeg",
     rotation: -3,
   },
   {
-    src: "./panda/WhatsApp Image  at 21.22.17.jpeg",
+    src: "./public/WhatsApp Image  at 21.22.17.jpeg",
     rotation: 2,
   },
   {
-    src: "./panda/WhatsApp Image  at 21.22.23.jpeg",
+    src: "./public/WhatsApp Image  at 21.22.23.jpeg",
     rotation: -2,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.12.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.12.jpeg",
     rotation: 4,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.13.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.13.jpeg",
     rotation: -4,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.17.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.17.jpeg",
     rotation: 3,
   },
   {
-    src: "./panda/WhatsApp Image 202622.22.jpeg",
+    src: "./public/WhatsApp Image 202622.22.jpeg",
     rotation: 2,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.14.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.14.jpeg",
     rotation: -2,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.15.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.15.jpeg",
     rotation: 3,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.28.16.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.28.16.jpeg",
     rotation: 3,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.23.jpeg",
+    src: "./public/WhatsApp Image 2026-02-25 at 21.22.23.jpeg",
     rotation: -2,
   },
   {
-    src: "./panda/WhatsApp Image at 21.22.20.jpeg",
+    src: "./public/WhatsApp Image at 21.22.20.jpeg",
     rotation: 3,
   },
 ];

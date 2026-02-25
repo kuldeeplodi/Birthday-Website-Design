@@ -2,32 +2,32 @@ import { motion } from "motion/react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 const memories = [
-  {   image: "./panda/WhatsApp Image 8.jpeg",
+  {   image: "./public/WhatsApp Image 8.jpeg",
     caption: "That day we laughed until we cried 😂",
     year: "2025",
   },
   {
-    image: "./panda/WhatsApp Image 2026-02-25 at 21.22.24.jpeg",
+    image: "./public/WhatsApp Image 2026-02-25 at 21.22.24.jpeg",
     caption: "Our iconic selfie fails compilation 📸",
     year: "2025",
   },
   {
-    image: "./panda/WhatsApp Image 2026-02-25 at 21.22.22.jpeg",
+    image: "./public/WhatsApp Image 2026-02-25 at 21.22.22.jpeg",
     caption: "When we got lost but made it an adventure 🗺️",
     year: "2025",
   },
   {
-    image: "./panda/WhatsApp Image 2026-02-25 at 21.22.20.jpeg",
+    image: "./public/WhatsApp Image 2026-02-25 at 21.22.20.jpeg",
     caption: "Late-night talks that healed more than we expected 🌙💬",
     year: "2025",
   },
   {
-    image: "./panda/panda.jpeg",
+    image: "./public/panda.jpeg",
     caption: "Unplanned moments make the best stories 💛",
     year: "2025",
   },
   {
-    image: "./panda/WhatsApp Image 2026-02-25 at 21.22.19.jpeg",
+    image: "./public/WhatsApp Image 2026-02-25 at 21.22.19.jpeg",
     caption: "Celebrating literally anything together 🎉",
     year: "2025",
   },

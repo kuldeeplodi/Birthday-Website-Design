@@ -39,7 +39,7 @@ const photos = [
     rotation: 3,
   },
   {
-    src: "./panda/WhatsApp Image 2026-02-25 at 21.22.16.jpeg",
+    src: "./panda/WhatsApp Image 2026-02-25 at 21.28.16.jpeg",
     rotation: 3,
   },
   {

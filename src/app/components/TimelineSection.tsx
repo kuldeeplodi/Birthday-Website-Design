@@ -17,7 +17,7 @@ const memories = [
     year: "2025",
   },
   {
-    image: "/images/WhatsAppImage 2026-02-25at21.22.20.jpeg",
+    image: "/images/WhatsAppImage2026-02-25at21.22.20.jpeg",
     caption: "Late-night talks that healed more than we expected 🌙💬",
     year: "2025",
   },
